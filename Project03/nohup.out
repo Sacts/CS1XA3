@@ -1,0 +1,23 @@
+Watching for file changes with StatReloader
+[26/Apr/2020 23:55:43] "GET /e/cheemm9/social/people/ HTTP/1.1" 200 16585
+[26/Apr/2020 23:55:50] "GET /e/cheemm9/ HTTP/1.1" 200 4623
+[26/Apr/2020 23:55:58] "POST /e/cheemm9/ HTTP/1.1" 302 0
+[26/Apr/2020 23:55:58] "GET /e/cheemm9/social/messages/ HTTP/1.1" 200 5816
+[26/Apr/2020 23:56:01] "GET /e/cheemm9/social/people/ HTTP/1.1" 200 21354
+[26/Apr/2020 23:56:01] "GET /e/cheemm9/social/messages/ HTTP/1.1" 200 5816
+[26/Apr/2020 23:56:03] "GET /e/cheemm9/logout/ HTTP/1.1" 302 0
+[26/Apr/2020 23:56:03] "GET /e/cheemm9/ HTTP/1.1" 200 4623
+[26/Apr/2020 23:56:04] "GET /e/cheemm9/signup/ HTTP/1.1" 200 4037
+/home/cheemm9/private/CS1XA3/Project03/login/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 26, 2020 - 23:55:29
+Django version 3.0.3, using settings 'Project03.settings'
+Starting development server at http://localhost:10018/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+[27/Apr/2020 03:19:49] "GET /e/cheemm9/ HTTP/1.1" 200 4623
+[27/Apr/2020 03:19:54] "POST /e/cheemm9/ HTTP/1.1" 302 0
+[27/Apr/2020 03:19:54] "GET /e/cheemm9/social/messages/ HTTP/1.1" 200 6112
